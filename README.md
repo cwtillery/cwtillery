@@ -2,4 +2,4 @@
 
 ~ In my spare time I like spending time with friends, playing video games, skating, and making music.
 
-~ I'm currently working on a bachelor's and master's degree in Computer Science at Auburn University and developing Hololens 2 applications for my work.
+~ I'm currently working on a bachelor's and master's degree in Computer Science at Auburn University and developing Hololens 2 applications with a professor at ICAMS.
